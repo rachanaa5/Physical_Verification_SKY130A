@@ -14,8 +14,8 @@ This repository documents the hands-on lab work completed during the **VSDIAT Ph
 
 ## Table of Contents
 
-1. [Day 1: SkyWater PDK Basics, Tool Setup & Parameterized Cells](Day1/README.md)
-2. [Day 2: Inverter Schematic Capture, Simulation & Layout Extraction](Day2/README.md)
-3. [Day 3: Advanced DRC Rules & Fixing Violations](Day3/README.md)
-4. [Day 4: PnR Integration & Extraction](Day4/README.md)
-5. [Day 5: Full Chip LVS & Post-Layout Signoff](Day5/README.md)
+1. [Day 1: SkyWater PDK Basics, Tool Setup & Parameterized Cells](assessment/README.md)
+2. [Day 2: Inverter Schematic Capture, Simulation & Layout Extraction](assessment/README.md)
+3. [Day 3: Advanced DRC Rules & Fixing Violations](assessment/README.md)
+4. [Day 4: PnR Integration & Extraction](assessment/README.md)
+5. [Day 5: Full Chip LVS & Post-Layout Signoff](assessment/README.md)
