@@ -13,9 +13,10 @@ This repository documents the hands-on lab work completed during the **VSDIAT Ph
   - **PDK Automation:** Open_PDKs
 
 ## Table of Contents
-
-1. [Day 1: SkyWater PDK Basics, Tool Setup & Parameterized Cells](assessment/README.md)
-2. [Day 2: Inverter Schematic Capture, Simulation & Layout Extraction](assessment/README.md)
-3. [Day 3: Advanced DRC Rules & Fixing Violations](assessment/README.md)
-4. [Day 4: PnR Integration & Extraction](assessment/README.md)
-5. [Day 5: Full Chip LVS & Post-Layout Signoff](assessment/README.md)
+## Table of Contents
+- [Workshop Assessment & Labs](assessment/README.md)
+  - Day 1: SkyWater PDK Basics, Tool Setup & Parameterized Cells
+  - Day 2: Inverter Schematic Capture, Simulation & Layout Extraction
+  - Day 3: Advanced DRC Rules & Fixing Violations
+  - Day 4: PnR Integration & Extraction
+  - Day 5: Full Chip LVS & Post-Layout Signoff
