@@ -1,22 +1,24 @@
-# Physical Verification of SKY130A PDK
+# Women_in_Semiconductors_VLSI_Labs
 
-This repository documents the hands-on lab work completed during the **VSDIAT Physical Verification Workshop** using the open-source **SkyWater SKY130 PDK**, **Magic VLSI**, **Netgen**, **Xschem**, and **Ngspice**.
+This repository documents hands-on labs, RTL designs, simulation, synthesis, and physical verification coursework completed as part of the **Women in Semiconductors: VLSI Design Engineer Program (570 Hours)**.
 
-## Workshop Overview
+## Program Overview
+* **Program:** Women in Semiconductors — VLSI Design Engineer Program (570 Hours, In-Person, Bengaluru)
+* **Cohort Timeline:** October 2026 – February 2027
+* **Program Partners:**
+  * **Training Partner:** VSD (VLSI System Design)
+  * **Program Partner:** SFAL (Semiconductor Fabless Accelerator Lab)
+  * **Assessment & Certification:** ESSCI (Electronics Sector Skills Council of India)
+  * **CSR Initiative:** Marvell
 
-- **Process Node:** SkyWater 130 nm Standard CMOS (1.8V / 3.3V / 5.0V devices)
-- **EDA Tool Stack:**
-  - **Schematic Capture:** Xschem
-  - **Simulation & Analysis:** Ngspice
-  - **Layout & DRC:** Magic VLSI (v8.3+)
-  - **LVS Comparison:** Netgen (v1.5+)
-  - **PDK Automation:** Open_PDKs
+## Core Curriculum & Flow
+* **Design:** Digital Logic, RTL & Verilog
+* **Verify:** Simulation, Verification, Synthesis & Open-Source EDA Tools
+* **Build:** ASIC / FPGA / SoC Guided Projects & Portfolio
 
-## Table of Contents
-## Table of Contents
-- [Workshop Assessment & Labs](assessment/README.md)
-  - Day 1: SkyWater PDK Basics, Tool Setup & Parameterized Cells
-  - Day 2: Inverter Schematic Capture, Simulation & Layout Extraction
-  - Day 3: Advanced DRC Rules & Fixing Violations
-  - Day 4: PnR Integration & Extraction
-  - Day 5: Full Chip LVS & Post-Layout Signoff
+## Open-Source EDA & PDK Stack
+* **Process Design Kit (PDK):** SkyWater 130 nm Open-Source PDK (`sky130A`)
+* **RTL & Simulation:** Verilog, Icarus Verilog / GTKWave, Ngspice
+* **Schematic & Layout:** Xschem, Magic VLSI (v8.3+)
+* **Physical Verification (DRC / LVS):** Magic VLSI, Netgen (v1.5+)
+
